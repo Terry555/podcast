@@ -8,6 +8,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+      <h1>HEADER IN APP.JS</h1>
         <Main/>
       </div>
     );
