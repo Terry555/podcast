@@ -6,7 +6,7 @@ class Main extends Component {
     return (
       <div className="main-one">
         <h1>This is where the React Player will go!</h1>
-        <ReactPlayer>Testing</ReactPlayer>
+        <ReactPlayer url='https://www.youtube.com/watch?v=79fzeNUqQbQ' playing/>
       </div>
     );
   }
