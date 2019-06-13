@@ -9,7 +9,6 @@ class App extends Component {
     return (
       <div className="App">
       <h1>HEADER IN APP.JS</h1>
-      <h2>This is where the main section will go, as develop branch</h2>
         <Main/>
       </div>
     );
